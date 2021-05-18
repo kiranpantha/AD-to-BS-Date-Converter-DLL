@@ -1,0 +1,10 @@
+F:\vbcodes10\DC\Date_Converter\Date_Converter\bin\Debug\Date_Converter.dll
+F:\vbcodes10\DC\Date_Converter\Date_Converter\bin\Debug\Date_Converter.pdb
+F:\vbcodes10\DC\Date_Converter\Date_Converter\bin\Debug\Date_Converter.xml
+F:\vbcodes10\DC\Date_Converter\Date_Converter\obj\Debug\ResolveAssemblyReference.cache
+F:\vbcodes10\DC\Date_Converter\Date_Converter\obj\Debug\DateConverter.Resources.resources
+F:\vbcodes10\DC\Date_Converter\Date_Converter\obj\Debug\GenerateResource.read.1.tlog
+F:\vbcodes10\DC\Date_Converter\Date_Converter\obj\Debug\GenerateResource.write.1.tlog
+F:\vbcodes10\DC\Date_Converter\Date_Converter\obj\Debug\Date_Converter.dll
+F:\vbcodes10\DC\Date_Converter\Date_Converter\obj\Debug\Date_Converter.xml
+F:\vbcodes10\DC\Date_Converter\Date_Converter\obj\Debug\Date_Converter.pdb
